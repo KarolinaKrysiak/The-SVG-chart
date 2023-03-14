@@ -30,7 +30,7 @@ const colors = [
 ];
 
 // amount of threats in one piece
-var amount = [50, 100, 25, 80, 75];
+var amount = [50, 100, 15, 80, 75];
 
 // threat level in a specific piece
 var threatLevel = ["low", "low", "moderate", "undefined", "low"];
